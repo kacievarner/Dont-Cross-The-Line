@@ -1,0 +1,10 @@
+Sources:
+
+	Audio:
+
+		All Audio Files are from ZapSplat.com and freesound.org or winsound library and are shared under 
+		creative commons legally.
+
+
+
+
